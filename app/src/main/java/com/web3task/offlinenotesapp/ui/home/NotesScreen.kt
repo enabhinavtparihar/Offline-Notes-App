@@ -1,4 +1,4 @@
-package com.web3task.offlinenotesapp.uidesgin.home
+package com.web3task.offlinenotesapp.ui.home
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
@@ -13,8 +13,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.web3task.offlinenotesapp.data.local.Note
-import com.web3task.offlinenotesapp.ui.home.NoteSortOrder
-import com.web3task.offlinenotesapp.ui.home.NotesViewModel
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale

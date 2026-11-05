@@ -1,4 +1,4 @@
-package com.web3task.offlinenotesapp.uidesgin.editor
+package com.web3task.offlinenotesapp.ui.editor
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState

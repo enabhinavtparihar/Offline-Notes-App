@@ -7,8 +7,8 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.web3task.offlinenotesapp.data.repository.NotesRepository
-import com.web3task.offlinenotesapp.uidesgin.editor.NoteEditorScreen
-import com.web3task.offlinenotesapp.uidesgin.home.NotesScreen
+import com.web3task.offlinenotesapp.ui.editor.NoteEditorScreen
+import com.web3task.offlinenotesapp.ui.home.NotesScreen
 import com.web3task.offlinenotesapp.ui.home.NotesViewModel
 
 object Routes {

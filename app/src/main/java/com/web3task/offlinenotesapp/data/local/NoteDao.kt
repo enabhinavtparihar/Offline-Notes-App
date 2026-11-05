@@ -1,4 +1,3 @@
-
 package com.web3task.offlinenotesapp.data.local
 
 import androidx.room.Dao
